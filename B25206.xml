@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>My Lords, you can't but be sensible of the great zeal I have had for King and kingdom, but more especially for the Church of England, ...</title>
+            <author>James, Elinor. ca. 1645-1719.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25206</idno><idno type="EEBO-CITATION">99883313</idno>
+  <idno type="VID">190439</idno>
+  <idno type="EEBO-PROQUEST">2240880329</idno>
+  
+            <idno type="STC">Wing J419B</idno>
+            <idno type="STC">Interim Tract Supplement Guide L.R.305.a.7.[8]</idno>
+            <idno type="STC">ESTC R43656</idno>
+            <idno type="PROQUEST">ocm99883313</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99883313e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25206)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190439)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C21:2[40])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>My Lords, you can't but be sensible of the great zeal I have had for King and kingdom, but more especially for the Church of England, ...</title>
+                  <author>James, Elinor. ca. 1645-1719.</author>
+               </titleStmt>
+               <extent>1 sheet [(1) p.].   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from opening words of text.</note>
+                  <note>Signed at end: Elinor James.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Anti-Catholicism --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:190439:1"/>
+            <opener>
+               <salute>MY LORDS,</salute>
+            </opener>
+            <p>YOU can't but be sensible of the <hi>great Zeal</hi> I have had for <hi>King and Kingdom,</hi> but more especially for the <hi>Church of England,</hi> it being the <hi>Purest Religion</hi> in the World, and most agreeable to the <hi>Divine Nature,</hi> and it was no less than <hi>GOD Himself</hi> that planted it by such a Miraculous Power, that it confounded the very <hi>Angels,</hi> changing <hi>Humanily</hi> into <hi>Divinity;</hi> and this could not be obtained without <hi>Christ's sacrifising himself</hi> to appease <hi>the Wrath</hi> of an <hi>Angry God,</hi> that through him <hi>Mortals</hi> might be capable of <hi>a Divine Being:</hi> Therefore all that intend to be saved by <hi>Christ,</hi> are obliged to yield obedience to his <hi>Commands:</hi> And therefore I would intreat you seriously to consi<g ref="char:EOLhyphen"/>der the <hi>Mighty Occasion</hi> that calls you hither (the like has not been known for these many <hi>Ages)</hi> and if <hi>God</hi> does not give you <hi>Wisdom,</hi> you will <hi>wound</hi> instead of <hi>curing,</hi> and hasten our <hi>Ruin;</hi> for I must needs tell you, that it is contrary to the Principles of your Religion, <hi>To do Evil that Good may come on it:</hi> But <hi>God</hi> may wink at this if you proceed no far<g ref="char:EOLhyphen"/>ther, because he knows that you are but Men, and that you had reason for what you did; yet if I had known of it, it should never have been done: for God is glorified by the <hi>Faith</hi> and <hi>Patience</hi> of his <hi>Saints,</hi> and it has been the Practice of <hi>Christians</hi> in all Ages to trust God, and to be willing to sacrifise their <hi>Lives and Fortunes</hi> for his <hi>Truth;</hi> and I must needs say, <hi>My Lords,</hi> that most of you have done so too: for if <hi>God</hi> had given the <hi>King</hi> Victory, in what a Condition would you have been, by running your selves into imminent <hi>dang<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r,</hi> and disgraced your <hi>Religion,</hi> in not going the <hi>Right War;</hi> but <hi>God</hi> suffered it to prosper, because the <hi>Roman Catholicks</hi> should not attribute their <hi>Victory</hi> to <hi>the Virgin Ma<g ref="char:EOLhyphen"/>ry.</hi> But this must not incourage your Lordships to make <hi>False steps,</hi> for if <hi>God</hi> overturn<g ref="char:EOLhyphen"/>ed the <hi>King</hi> for not walking uprightly before him, how much more will he do the <hi>King<g ref="char:EOLhyphen"/>dom,</hi> if that you should prove unkind or ungrateful to the <hi>King?</hi> Though I would not be like the Ass to assist the Lion, and then be made a <hi>Prey</hi> of, nor yet the Fox that de<g ref="char:EOLhyphen"/>lights to see the Lion in trouble; but I would be like the <hi>good Samaritan,</hi> that heal'd the Wounds by pouring Oil and Wine into them. For I would have all Occasions of <hi>Fears</hi> and <hi>Jealousies</hi> to be removed on every side, which <hi>His Majesty</hi> might have done, if he had pleased; for I told him the <hi>Find</hi> at the <hi>Beginning,</hi> but he would not believe; have a care that you are not <hi>Ʋnbelievers</hi> too: for I never sought any thing but the <hi>King</hi> and <hi>King<g ref="char:EOLhyphen"/>doms Happiness;</hi> neither do I desire to have any greater glory in this World, than to have you <hi>safe</hi> and <hi>happy,</hi> which you all conclude will be in this <hi>Way</hi> which you have taken: but you will be deceived if you be not wise. Not that I would have you be ungrateful to the <hi>Prinee,</hi> nor yet in <hi>Slavery;</hi> but as you are <hi>Free-born,</hi> you should keep your selves so: for it was his own Interest that brought him hither as well as yours, and it is but rea<g ref="char:EOLhyphen"/>son that he should have Right done in that <hi>Matter;</hi> for no body can condemn him for looking after the <hi>Right</hi> of his <hi>Wife:</hi> but all the World will highly condemn you to give, or he to receive, the <hi>Right</hi> of the <hi>King;</hi> and you must not think to go unpunished: for why should not <hi>God</hi> be as zealous fot his <hi>Laws,</hi> as <hi>Man</hi> is for his; and so exclude you out of his <hi>Kingdom,</hi> as you do the <hi>King</hi> out of his. Besides I don't think the <hi>Prince</hi> has so much to say against the <hi>King,</hi> as the <hi>People</hi> supposes; but if there were, <hi>God</hi> can pardon them upon <hi>repentance</hi> and <hi>amendment;</hi> for he has declared, <hi>That if your s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be as scarlet, he'll wash you as white as snow.</hi> Therefore take not any thing away from the <hi>King,</hi> only free his <hi>Kingdoms</hi> from <hi>Popery,</hi> and let not that have any <hi>Dominion:</hi> And treat the <hi>Prince</hi> as a <hi>Friend</hi> and <hi>Great Instrument</hi> in assisting towards the Doing of this <hi>Great Work;</hi> and whatever <hi>Good</hi> you receive by <hi>him,</hi> restore it ten-fold in assisting <hi>him</hi> with your <hi>Lives</hi> and <hi>Fortunes</hi> against <hi>France,</hi> and I don't doubt but by <hi>Gods Blessing,</hi> you will <hi>Conquer</hi> and <hi>Subdue it;</hi> [and from thence to <hi>Rome:]</hi> for I have a great desire to see the <hi>French King,</hi> having <hi>Fasted Fourteen Days that he should not Conquer us:</hi> Therefore fear not his <hi>Mighty Army,</hi> for <hi>God</hi> will give you <hi>Victory,</hi> but make hast and do it; for <hi>Gods Hand</hi> as well as this <hi>Kingdoms</hi> will be against it. And in so doing, you will make the <hi>Prince</hi> Famous through the <hi>World;</hi> and <hi>You</hi> by your <hi>Wisdom, Justice</hi> and <hi>Goodness,</hi> may be Instrumental to <hi>Con<g ref="char:EOLhyphen"/>vince</hi> the <hi>Roman Catholicks</hi> of their <hi>Errors;</hi> and so in the <hi>End</hi> obtain a <hi>Ʋniversal Peace,</hi> which will be <hi>Your Eternal Glory</hi> not only in this <hi>World,</hi> but in <hi>That to come:</hi> Which that the <hi>Lord</hi> may <hi>give</hi> you <hi>Wisdom</hi> to obtain, is the <hi>Prayer</hi> of.</p>
+            <closer>
+               <signed>Your Humble Servant And Souls Well-Wisher, <hi>ELINOR JAMES.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
